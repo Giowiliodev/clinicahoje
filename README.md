@@ -5,4 +5,3 @@ Mas ainda não soube como colocar em prática perfeitamente dessa forma, de uma 
 ainda que isso aconteça, algumas partes do portal do usuário foram feitas, como a alteração de senha e cadatro dele em si, ele só não pode ainda marcar sua própria consulta.
 o admin pode criar um cadastro, acessar um portal, visualizar as consultas marcadas e horários, marcar novas, alterar informações do cliente e deletar informações do cliente.
 Todos os cadastros são feitos com base no email, mas para que seja modificada alguma informação, é necessário digitar o CPF.
-
